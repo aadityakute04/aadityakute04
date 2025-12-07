@@ -114,9 +114,14 @@ I am passionate about **Cloud Infrastructure, DevOps Automation, CI/CD, and Scal
 
 ## 📊 GitHub Performance  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aadityakute04&show_icons=true&theme=dark" />
-</p>
+## 📊 GitHub Performance
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=aadityakute04&theme=tokyonight" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=aadityakute04&show_icons=true&theme=tokyonight" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aadityakute04&theme=tokyo-night" />
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aadityakute04&theme=dark" />
