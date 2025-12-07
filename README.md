@@ -111,8 +111,7 @@ I am passionate about **Cloud Infrastructure, DevOps Automation, CI/CD, and Scal
 - Git + Jenkins workflows  
 
 ---
-
-## 📊 GitHub Performance  
+ 
 
 ## 📊 GitHub Performance
 
