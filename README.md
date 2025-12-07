@@ -1,16 +1,131 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Aaditya Kute</h1>
+<h3 align="center">MSc Cloud Computing Student | Aspiring DevOps & Cloud Engineer</h3>
+<p align="center">📍 Newcastle upon Tyne, United Kingdom</p>
 
-<!--
-**aadityakute04/aadityakute04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aadityakute04&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me  
+
+I'm **Aaditya Kute**, a postgraduate student pursuing **MSc in Cloud Computing at Newcastle University, UK**.  
+I am passionate about **Cloud Infrastructure, DevOps Automation, CI/CD, and Scalable Microservices Systems**.
+
+🎯 My career goal is to work as a **DevOps / Cloud Engineer in the UK**, delivering **secure, automated, and production-grade cloud platforms**.
+
+---
+
+## 🎓 Education  
+
+- 🎓 **MSc Cloud Computing** — Newcastle University, UK *(2024–2025)*  
+- 🎓 **Bachelor’s Degree in Computer Science / Engineering** *(Completed)*  
+
+---
+
+## 🏅 Certifications (In Progress & Planned)
+
+- ✅ AWS Cloud Practitioner *(Planned)*  
+- ✅ Microsoft Azure Fundamentals *(Planned)*  
+- ✅ HashiCorp Terraform Associate *(Planned)*  
+- ✅ Kubernetes (CKA – Planned)*  
+
+---
+
+## ☁️ Cloud Platforms & Badges
+
+<p align="left">
+  <img src="https://img.shields.io/badge/AWS-Cloud-orange?style=for-the-badge&logo=amazonaws" />
+  <img src="https://img.shields.io/badge/Azure-Cloud-blue?style=for-the-badge&logo=microsoftazure" />
+  <img src="https://img.shields.io/badge/GCP-Cloud-lightblue?style=for-the-badge&logo=googlecloud" />
+</p>
+
+---
+
+## ⚙️ Animated DevOps Skills  
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,terraform,githubactions,linux,git,java,python,bash&perline=6" />
+</p>
+
+---
+
+## 🧰 Technical Skills Summary  
+
+### 🔹 DevOps & CI/CD  
+- GitHub Actions  
+- Docker & Kubernetes  
+- CI/CD Pipelines  
+- Git & GitHub  
+
+### 🔹 Infrastructure & Automation  
+- Terraform  
+- Bash Scripting  
+- Linux Server Administration  
+
+### 🔹 Cloud Platforms  
+- AWS  
+- Microsoft Azure  
+- Google Cloud (Basic)
+
+### 🔹 Programming & Backend  
+- Java  
+- Python  
+- REST APIs  
+- Maven  
+
+---
+
+## 🧪 What I’m Currently Working On  
+
+- ✅ Building **end-to-end CI/CD pipelines** using GitHub Actions  
+- ✅ Deploying **Dockerised microservices to Kubernetes clusters**  
+- ✅ Automating cloud infrastructure using **Terraform (AWS & Azure)**  
+- ✅ Developing **cloud-native enterprise applications**  
+
+---
+
+## 📂 Featured Projects  
+
+✅ **Quarkus Enterprise Booking Service (Enterprise Middleware Project)**  
+- Microservices-based REST platform  
+- CI/CD pipeline with GitHub Actions  
+- Docker containerisation  
+- Automated integration testing  
+- Cloud-ready architecture  
+
+✅ **Advanced Java Order Management System**  
+- Clean layered architecture  
+- Business rule validation  
+- Unit & integration testing  
+- Maven automation  
+
+✅ **Linux + DevOps Automation Labs (VM Based)** *(In Progress)*  
+- Server provisioning  
+- Bash automation  
+- Git + Jenkins workflows  
+
+---
+
+## 📊 GitHub Performance  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aadityakute04&show_icons=true&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aadityakute04&theme=dark" />
+</p>
+
+---
+
+## 🌍 Connect with Me  
+
+- 🔗 **LinkedIn:** *(Add your profile link here)*  
+- 📧 **Email:** aadityakute04@gmail.com  
+- 💻 **GitHub:** https://github.com/aadityakute04  
+
+---
+
+🔥 *Always learning. Always building. Preparing for a future in DevOps & Cloud Engineering in the UK.* 🔥
