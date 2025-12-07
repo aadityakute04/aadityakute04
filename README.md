@@ -1,4 +1,10 @@
 <h1 align="center">👋 Aaditya Kute</h1>
+<p align="center">
+  <a href="https://github.com/aadityakute04">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=DevOps+%26+Cloud+Engineer;Building+Scalable+Cloud+%26+DevOps+Solutions;AWS+%7C+Azure+%7C+Docker+%7C+Kubernetes;CI%2FCD+Pipelines+%7C+Automation+%7C+Linux;MSc+Cloud+Computing+Student+%40+Newcastle+University">
+  </a>
+</p>
+
 <h3 align="center">DevOps & Cloud Engineer | MSc Cloud Computing @ Newcastle University (UK)</h3>
 
 <p align="center">
