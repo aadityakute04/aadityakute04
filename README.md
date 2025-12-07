@@ -1,9 +1,13 @@
-<h1 align="center">Hi 👋, I'm Aaditya Kute</h1>
-<h3 align="center">MSc Cloud Computing Student | Aspiring DevOps & Cloud Engineer</h3>
-<p align="center">📍 Newcastle upon Tyne, United Kingdom</p>
+<h1 align="center">👋 Aaditya Kute</h1>
+<h3 align="center">DevOps & Cloud Engineer | MSc Cloud Computing @ Newcastle University (UK)</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aadityakute04&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+🌐 <strong>Engineering Scalable Cloud & DevOps Solutions</strong>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aadityakute04&color=blue&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/aadityakute04?label=Followers&style=flat-square" alt="Followers" />
 </p>
 
 ---
