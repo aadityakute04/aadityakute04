@@ -112,14 +112,26 @@ I am passionate about **Cloud Infrastructure, DevOps Automation, CI/CD, and Scal
 - Unit & integration testing  
 - Maven automation  
 
-✅ Kubernetes Benchmarking & Monitoring Platform (Cloud Computing Project)
+✅ **Kubernetes Benchmarking & Monitoring Platform (Cloud Computing Project)**
 - Deployed a Java-based benchmark application on Kubernetes (MicroK8s)
 - Implemented Kubernetes Dashboard for cluster monitoring and management
 - Built a complete monitoring stack using Prometheus, Grafana, Node Exporter, and kube-state-metrics
 - Designed and containerised a Python-based load generator using Docker
 - Generated controlled CPU and memory load to analyse application performance
 - Visualised real-time performance metrics using Grafana dashboards
-- Demonstrated impact of load by starting and stopping workloads dynamically 
+- Demonstrated impact of load by starting and stopping workloads dynamically
+
+✅ **CSC8111 Machine Learning Mini-Projects (Classification & Regression)**
+
+- End-to-end machine learning pipelines using scikit-learn  
+- Multi-class classification on real-world FARS accident dataset  
+- Regression modelling on biological growth data (targets: a & μ)  
+- Advanced preprocessing with ColumnTransformer (scaling + encoding)  
+- Hyperparameter tuning using GridSearchCV  
+- Model evaluation using accuracy, F1-score, RMSE, MAE and R²  
+- Professional visualisations (confusion matrices, residual plots, heatmaps)  
+- Academic-standard reporting and analysis  
+
 
 ---
  
