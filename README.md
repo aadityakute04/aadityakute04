@@ -112,10 +112,14 @@ I am passionate about **Cloud Infrastructure, DevOps Automation, CI/CD, and Scal
 - Unit & integration testing  
 - Maven automation  
 
-✅ **Linux + DevOps Automation Labs (VM Based)** *(In Progress)*  
-- Server provisioning  
-- Bash automation  
-- Git + Jenkins workflows  
+✅ Kubernetes Benchmarking & Monitoring Platform (Cloud Computing Project)
+- Deployed a Java-based benchmark application on Kubernetes (MicroK8s)
+- Implemented Kubernetes Dashboard for cluster monitoring and management
+- Built a complete monitoring stack using Prometheus, Grafana, Node Exporter, and kube-state-metrics
+- Designed and containerised a Python-based load generator using Docker
+- Generated controlled CPU and memory load to analyse application performance
+- Visualised real-time performance metrics using Grafana dashboards
+- Demonstrated impact of load by starting and stopping workloads dynamically 
 
 ---
  
